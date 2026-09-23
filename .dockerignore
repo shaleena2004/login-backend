@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+coverage
+.DS_Store
+*.log
+tests
+postman
+README.md
